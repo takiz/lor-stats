@@ -3,7 +3,7 @@ html {
 }
 
 body {
-	background-color: #fff;
+	background-color: #e8e4dd;
 	color: #000;
 	font-family: sans-serif;
 	padding: 0;
@@ -88,12 +88,9 @@ h4 {
 	clear: both;
 	margin: 0;
 	padding: 0;
-	/*background-color: #fff;
-	overflow: hidden;*/
 }
 
 #nav {
-	/*background-color: #fff;*/
 	float: left;
 	margin: 0 1px 0 0;
 	padding: 1em 0;
